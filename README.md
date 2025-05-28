@@ -24,7 +24,6 @@ This tool automates that process with a simple GUI:
 | -------------------------------- | ----------------------------------- |
 | ![Main](screenshots/main-ui.png) | ![Success](screenshots/success.png) |
 
-
 ---
 
 ## 📅 Installation
@@ -35,7 +34,6 @@ This tool automates that process with a simple GUI:
 2. Download the latest `.zip` file
 3. Extract it anywhere
 4. Run `FortniteResolutionChanger.exe`
-
 
 ---
 
@@ -62,7 +60,20 @@ git clone https://github.com/txcceuu/Fortnite-Resolution-Changer.git
 5. Run the `.exe` from `x64/Release` or `x64/Debug`
 
 ---
-	
+
+## ⚠️ Disclaimer
+
+Because this app modifies configuration files:
+
+- **Browsers may block the download** of the app due to lack of a trusted publisher or code signing.
+- **Windows SmartScreen may flag the app** as "unknown" on first run since it's not from a verified developer.
+- **Antivirus software may show a false positive** because the app accesses local files and isn't widely distributed.
+
+These warnings are normal for indie apps and do not indicate any malicious behavior.
+If you downloaded the `.exe` from the official [GitHub Releases](https://github.com/txcceuu/Fortnite-Resolution-Changer/releases), it is safe to use.
+
+---
+
 ## 🛣️ Roadmap
 
 This section outlines planned features and improvements for the Fortnite Resolution Changer project. ✅ = Completed, ⏳ = In progress, ❌ = Not started.
