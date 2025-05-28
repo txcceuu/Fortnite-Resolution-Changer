@@ -14,7 +14,6 @@ This tool automates that process with a simple GUI:
 
 * 🔎 Automatically locates your `GameUserSettings.ini`
 * 📝 Edits all resolution-related fields correctly
-* 🧼 Sets the fullscreen mode to ensure changes apply properly
 * ✅ No technical knowledge required
 
 ---
@@ -35,7 +34,8 @@ This tool automates that process with a simple GUI:
 1. Go to the [Releases Page](https://github.com/txcceuu/Fortnite-Resolution-Changer/releases)
 2. Download the latest `.zip` file
 3. Extract it anywhere
-4. Run `FortniteResolutionChanger.exe`
+4. Change to fullscreen ingame
+5. Run `FortniteResolutionChanger.exe`
 
 
 ---
@@ -61,6 +61,34 @@ git clone https://github.com/txcceuu/Fortnite-Resolution-Changer.git
    * Set **Character Set** to `Use Multi-Byte Character Set`
 4. Build the solution (`Ctrl + Shift + B`)
 5. Run the `.exe` from `x64/Release` or `x64/Debug`
+
+---
+	
+## 🛣️ Roadmap
+
+This section outlines planned features and improvements for the Fortnite Resolution Changer project. ✅ = Completed, ⏳ = In progress, ❌ = Not started.
+
+    ✅ Read and write to GameUserSettings.ini
+
+    ✅ Basic input validation (positive integers only)
+
+    ⏳ Automatically set FullscreenMode and LastConfirmedFullscreenMode to fullscreen
+
+    ❌ Add dropdowns for common resolutions (e.g., 1920x1080, 1280x720)
+
+    ❌ Add a config backup/restore feature
+
+    ❌ Auto-detect Fortnite executable and show status
+
+    ❌ Dark mode UI theme support
+
+    ❌ Multi-language (i18n) support
+
+    ❌ Optional CLI version for command-line power users
+
+    ❌ Add system tray integration
+
+    ❌ Create installer for easier setup
 
 ---
 
