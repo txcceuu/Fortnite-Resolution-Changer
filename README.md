@@ -72,7 +72,7 @@ This section outlines planned features and improvements for the Fortnite Resolut
 
     ✅ Basic input validation (positive integers only)
 
-    ⏳ Automatically set FullscreenMode and LastConfirmedFullscreenMode to fullscreen
+    ✅ Automatically set FullscreenMode and LastConfirmedFullscreenMode to fullscreen
 
     ❌ Add dropdowns for common resolutions (e.g., 1920x1080, 1280x720)
 
