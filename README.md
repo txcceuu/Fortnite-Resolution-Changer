@@ -74,6 +74,33 @@ If you downloaded the `.exe` from the official [GitHub Releases](https://github.
 
 ---
 
+## 🧭 How to Bypass Windows SmartScreen
+
+When you first launch `FortniteResChangerGUI.exe`, Windows may show the following warning:
+
+> **"Windows protected your PC"**  
+> Microsoft Defender SmartScreen prevented an unrecognized app from starting.
+
+This is a **common and safe** warning for newly released or unsigned apps.
+
+### ✅ How to Run the App Anyway
+
+1. On the warning screen, click **More info**
+2. You will now see:
+   - The app name: `FortniteResChangerGUI.exe`
+   - Publisher: *Unknown publisher*
+3. Click the **Run anyway** button
+4. The application will launch normally
+
+### 🔒 Why SmartScreen Shows This
+
+- The app is new and hasn't built up enough reputation with Microsoft yet
+- It's not digitally signed with a verified certificate (common for open-source or hobby projects)
+
+**If you downloaded the app from the official [GitHub Releases page](https://github.com/txcceuu/Fortnite-Resolution-Changer/releases), it's safe to use.**
+
+---
+
 ## 🛣️ Roadmap
 
 This section outlines planned features and improvements for the Fortnite Resolution Changer project. ✅ = Completed, ⏳ = In progress, ❌ = Not started.
