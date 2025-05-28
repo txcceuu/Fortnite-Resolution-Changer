@@ -25,7 +25,6 @@ This tool automates that process with a simple GUI:
 | -------------------------------- | ----------------------------------- |
 | ![Main](screenshots/main-ui.png) | ![Success](screenshots/success.png) |
 
-> 💡 Add your own screenshots in a `screenshots/` folder.
 
 ---
 
