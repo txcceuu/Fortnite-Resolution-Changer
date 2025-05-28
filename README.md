@@ -34,8 +34,7 @@ This tool automates that process with a simple GUI:
 1. Go to the [Releases Page](https://github.com/txcceuu/Fortnite-Resolution-Changer/releases)
 2. Download the latest `.zip` file
 3. Extract it anywhere
-4. Change to fullscreen ingame
-5. Run `FortniteResolutionChanger.exe`
+4. Run `FortniteResolutionChanger.exe`
 
 
 ---
