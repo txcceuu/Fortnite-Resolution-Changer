@@ -63,6 +63,34 @@ git clone https://github.com/txcceuu/Fortnite-Resolution-Changer.git
 5. Run the `.exe` from `x64/Release` or `x64/Debug`
 
 ---
+	
+## 🛣️ Roadmap
+
+This section outlines planned features and improvements for the Fortnite Resolution Changer project. ✅ = Completed, ⏳ = In progress, ❌ = Not started.
+
+    ✅ Read and write to GameUserSettings.ini
+
+    ✅ Basic input validation (positive integers only)
+
+    ⏳ Automatically set FullscreenMode and LastConfirmedFullscreenMode to fullscreen
+
+    ❌ Add dropdowns for common resolutions (e.g., 1920x1080, 1280x720)
+
+    ❌ Add a config backup/restore feature
+
+    ❌ Auto-detect Fortnite executable and show status
+
+    ❌ Dark mode UI theme support
+
+    ❌ Multi-language (i18n) support
+
+    ❌ Optional CLI version for command-line power users
+
+    ❌ Add system tray integration
+
+    ❌ Create installer for easier setup
+
+---
 
 ## 📝 License
 
