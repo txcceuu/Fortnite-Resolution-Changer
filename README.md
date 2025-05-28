@@ -14,7 +14,6 @@ This tool automates that process with a simple GUI:
 
 * 🔎 Automatically locates your `GameUserSettings.ini`
 * 📝 Edits all resolution-related fields correctly
-* 🧼 Sets the fullscreen mode to ensure changes apply properly
 * ✅ No technical knowledge required
 
 ---
@@ -35,7 +34,8 @@ This tool automates that process with a simple GUI:
 1. Go to the [Releases Page](https://github.com/txcceuu/Fortnite-Resolution-Changer/releases)
 2. Download the latest `.zip` file
 3. Extract it anywhere
-4. Run `FortniteResolutionChanger.exe`
+4. Change to fullscreen ingame
+5. Run `FortniteResolutionChanger.exe`
 
 
 ---
