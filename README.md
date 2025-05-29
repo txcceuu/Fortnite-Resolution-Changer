@@ -4,6 +4,9 @@ A fast, user-friendly Windows desktop app that lets you change your **Fortnite r
 
 [![GitHub stars](https://img.shields.io/github/stars/txcceuu/Fortnite-Resolution-Changer?style=social)](https://github.com/txcceuu/Fortnite-Resolution-Changer/stargazers)
 [![GitHub license](https://img.shields.io/github/license/txcceuu/Fortnite-Resolution-Changer)](LICENSE)
+![Latest Release](https://img.shields.io/github/v/release/txcceuu/Fortnite-Resolution-Changer)
+
+
 
 ---
 
@@ -111,7 +114,7 @@ This section outlines planned features and improvements for the Fortnite Resolut
 
     ✅ Automatically set FullscreenMode and LastConfirmedFullscreenMode to fullscreen
 
-    ❌ Add dropdowns for common resolutions (e.g., 1920x1080, 1280x720)
+    ✅ Add dropdowns for common resolutions (e.g., 1920x1080, 1280x720)
 
     ❌ Add a config backup/restore feature
 
@@ -124,8 +127,6 @@ This section outlines planned features and improvements for the Fortnite Resolut
     ❌ Optional CLI version for command-line power users
 
     ❌ Add system tray integration
-
-    ❌ Create installer for easier setup
 
 ---
 
